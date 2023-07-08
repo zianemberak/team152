@@ -1,0 +1,437 @@
+
+
+
+
+[{
+        "url": "https://template.itwcreativeworks.com/404.html",
+        "title": "Ultimate Jekyll - Page not found",
+        "desc": "This page was not found. Please let us know if we have a broken link somewhere!",
+        "breadcrumb": "404",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/about/",
+        "title": "Ultimate Jekyll - About",
+        "desc": "Discover Ultimate Jekyll and learn what we're all about",
+        "breadcrumb": "About",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/account/",
+        "title": "Account - Ultimate Jekyll",
+        "desc": "Manage your Ultimate Jekyll account.",
+        "breadcrumb": "Account",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/ads/",
+        "title": "Ads - Ultimate Jekyll",
+        "desc": "Test Ultimate Jekyll ads",
+        "breadcrumb": "Ads",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/ads.txt",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/analytics/",
+        "title": "Analytics - Ultimate Jekyll",
+        "desc": "Test Ultimate Jekyll analytics",
+        "breadcrumb": "Analytics",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/authentication-required/",
+        "title": "Authentication Required - Ultimate Jekyll",
+        "desc": "Authentication required for Ultimate Jekyll.",
+        "breadcrumb": "Required",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/authentication-token/",
+        "title": "Token - Ultimate Jekyll",
+        "desc": "Token Ultimate Jekyll.",
+        "breadcrumb": "Token",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/blog/",
+        "title": "Ultimate Jekyll - Blog",
+        "desc": "Stay up to date with the latest Ultimate Jekyll news and best practices.",
+        "breadcrumb": "Blog",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/budget.json",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/checkout/",
+        "title": "Checkout",
+        "desc": "Checkout with our product.",
+        "breadcrumb": "Checkout",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/checkout/confirmation/",
+        "title": "Thank you!",
+        "desc": "Thanks for checking out!",
+        "breadcrumb": "Thank you",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/submission/confirmation/",
+        "title": "Submission Confirmation",
+        "desc": "Thank you for taking the time to submit your request. We will get back to you as soon a possible.",
+        "breadcrumb": "Submission",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/contact/",
+        "title": "Ultimate Jekyll - Contact",
+        "desc": "Contact Ultimate Jekyll if you need assistance with anything.",
+        "breadcrumb": "Contact",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/cookies/",
+        "title": "Cookie Policy - Ultimate Jekyll",
+        "desc": "This cookie policy has been compiled to better serve those who are concerned with how their personal information is being used online.",
+        "breadcrumb": "Cookie Policy",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/posts/create/",
+        "title": "Create Post",
+        "desc": "Create blog posts with ease, including the beautiful markdown editor StackEdit.",
+        "breadcrumb": "Create",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/notifications/create/",
+        "title": "Create Notification",
+        "desc": "Send push notifications to capture your audience!",
+        "breadcrumb": "Create",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/dashboard/",
+        "title": "Dashboard",
+        "desc": "Manage Ultimate Jekyll via this helpful dashboard.",
+        "breadcrumb": "Dashboard",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/download/",
+        "title": "Ultimate Jekyll - Download",
+        "desc": "Ultimate Jekyll is free to use on Windows, Mac & Linux. Get started for free today!",
+        "breadcrumb": "Download",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/email-subscription/",
+        "title": "Newsletter - Ultimate Jekyll",
+        "desc": "Subscribe to our newsletter so you can be in the know about our latest projects.",
+        "breadcrumb": "Subscribe",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/extension/",
+        "title": "Ultimate Jekyll - Browser Extension",
+        "desc": "The Ultimate Jekyll browser extension is free to use on Chrome, Firefox & Opera. Get started for free today!",
+        "breadcrumb": "Extension",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/feedback/",
+        "title": "Feedback - Ultimate Jekyll",
+        "desc": "Provide feedback to the  Ultimate Jekyll team and help us improve our product for you.",
+        "breadcrumb": "Feedback",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/lab/firestore/",
+        "title": "Firestore",
+        "desc": "Test your Firestore rules in this sandbox.",
+        "breadcrumb": "Firestore",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/forgot/",
+        "title": "Forgot - Ultimate Jekyll",
+        "desc": "Recover your password for Ultimate Jekyll.",
+        "breadcrumb": "Forgot",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/notifications/",
+        "title": "Notifications",
+        "desc": "View notifications",
+        "breadcrumb": "Notifications",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/users/",
+        "title": "Explore Users",
+        "desc": "Explore users with this Firestore query tool.",
+        "breadcrumb": "Explore Users",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/posts/",
+        "title": "Posts",
+        "desc": "View posts",
+        "breadcrumb": "Posts",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/",
+        "title": "Ultimate Jekyll - Home",
+        "desc": "Default description",
+        "breadcrumb": "Home",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/manifest.json",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/master-service-worker.js",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/oauth2/",
+        "title": "OAuth2 - Ultimate Jekyll",
+        "desc": "Authorize your account to connect it to Ultimate Jekyll.",
+        "breadcrumb": "OAuth2",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/users/online/",
+        "title": "Explore Online Users",
+        "desc": "Explore online users with this Firestore query tool.",
+        "breadcrumb": "Explore online Users",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/pages.json",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/feeds/posts.xml",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/notifications/vendor/preview/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/privacy/",
+        "title": "Privacy Policy - Ultimate Jekyll",
+        "desc": "This privacy policy has been compiled to better serve those who are concerned with how their personal information is being used online.",
+        "breadcrumb": "Privacy Policy",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/_report/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/robots.txt",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/search/cse/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/signin/",
+        "title": "Sign in - Ultimate Jekyll",
+        "desc": "Sign in to Ultimate Jekyll.",
+        "breadcrumb": "Sign in",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/signout/",
+        "title": "Sign out - Ultimate Jekyll",
+        "desc": "Sign out from Ultimate Jekyll.",
+        "breadcrumb": "Sign out",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/signup/",
+        "title": "Sign up - Ultimate Jekyll",
+        "desc": "Sign up for Ultimate Jekyll.",
+        "breadcrumb": "Sign up",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/sitemap.xml",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/posts/vendor/stackedit/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/terms/",
+        "title": "Terms Of Service - Ultimate Jekyll",
+        "desc": "By accessing and using our products and services, you agree to comply with the Terms of Use listed here.",
+        "breadcrumb": "Terms of Service",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/tools/",
+        "title": "Feedback - Ultimate Jekyll",
+        "desc": "Provide feedback to the  Ultimate Jekyll team and help us improve our product for you.",
+        "breadcrumb": "Feedback",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/admin/lab/webhook/",
+        "title": "Webhook",
+        "desc": "Test your webhook in this sandbox.",
+        "breadcrumb": "Webhook",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/blog/example-post-7/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/blog/example-post-6/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/blog/example-post-5/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/blog/example-post-4/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/blog/example-post-3/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/blog/example-post-2/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://template.itwcreativeworks.com/blog/example-post-1/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      }
+    ]
